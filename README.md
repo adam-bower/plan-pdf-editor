@@ -10,12 +10,11 @@ Everything runs on your computer. There's no account, no server, and nothing is 
 
 ## Download
 
-**[Get the latest version →](https://github.com/adam-bower/plan-pdf-editor/releases/latest)**
+**[adam-bower.github.io/plan-pdf-editor](https://adam-bower.github.io/plan-pdf-editor)**
 
-| System | File |
-|---|---|
-| Windows 10/11 (64-bit) | `Plan.PDF.Editor_x.y.z_x64-setup.exe` |
-| Mac (Apple Silicon: M1 and newer) | `Plan.PDF.Editor_x.y.z_aarch64.dmg` |
+Direct downloads (these always get the newest version):
+- **Windows 10/11:** [PlanPDFEditor-Windows.exe](https://github.com/adam-bower/plan-pdf-editor/releases/latest/download/PlanPDFEditor-Windows.exe)
+- **Mac (Apple Silicon, M1 and newer):** [PlanPDFEditor-Mac.dmg](https://github.com/adam-bower/plan-pdf-editor/releases/latest/download/PlanPDFEditor-Mac.dmg)
 
 ## Installing
 
